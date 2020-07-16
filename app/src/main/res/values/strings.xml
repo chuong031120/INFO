@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="Name">Ten</string>
+    <string name="mail">Email</string>
+    <string name="BTN">Nam</string>
+    <string name="TVCT">Chú Thích</string>
+    <string name="BTN2">Nữ</string>
+    <string name="TVT">Tên</string>
+    <string name="TVGT">Giới Tính</string>
+    <string name="BTCN">Chấp Nhận</string>
+    <string name="BTT">Thoát</string>
+</resources>
